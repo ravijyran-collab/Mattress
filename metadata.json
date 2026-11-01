@@ -1,0 +1,6 @@
+{
+  "name": "Sleepmall.com - Luxury Mattress & Sleep Products",
+  "description": "Pan-India premier online mattress and orthopedic sleep tech e-commerce platform offering custom sizing, risk-free trials, and express delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
